@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1240px;
+    margin: 0 auto;
+}
+.l-style{
+    list-style: none;
+}
+svg{
+    height: 30px;
+    width: 30px;
+}
+.right svg{
+    color:#d1cfcf;
+}
+.box{
+    height: 180px;
+    width: 260px;
+    background-color: #484848;
+}
+.bg{
+    background-color: #C4C4C4;
+}
+.text{
+    padding:100px 50px;
+}
+.item{
+    margin-top: -60px;
+}
+.box{
+    margin:0 18px;
+}
+.dog{
+    width: 350px;
+    height: 180px;
+    background-color: #484848;
+}
+.bask{
+    margin: 10px;
+}
+.cat{
+    width: 350px;
+    height: 30px;
+    background-color: #C4C4C4;
+}
+.section2{
+    padding: 40px 0;
+}
+.btn{
+    margin-left: 41%;
+}
+.corner{
+    margin: 10px;
+    height: 300px;
+    width: 500px;
+    background-color: #484848;
+}
+.section3{
+    margin-top: 90px;
+    justify-content: space-between;
+}
+.grid{
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto auto;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.section4{
+    text-align: center;
+    margin-top: 60px;
+}
+.section5{
+    padding: 60px 0;
+}
+.text-box{
+    width: 300px;
+    font-weight: 500;
+}
+.text-box h1{
+    margin: 10px 0;
+}
+.up{
+    background-color: #A6A6A6;
+    width: 340px;
+    height: 220px;
+}
+.footer{
+    background-color: #000000;
+    padding-top: 150px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 70px;
+}
+.down{
+    background-color: #ffff;
+    width: 340px;
+    height: 50px;
+}
+form{
+    width: 500px;
+}
+.form{
+    padding: 50px;
+}
+form{
+    padding: 70px 0;
+}
+form button{
+    background-color: #000000;
+    color: #ffff;
+}
+.form img{
+    width: 270px;
+    height: 230px;
+}
+
+/* media */
